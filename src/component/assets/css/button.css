@@ -1,0 +1,18 @@
+.button {
+  width: 90%;
+  height: auto;
+  margin-top: 10px;
+  padding: 10px 0 10px 0;
+  border: solid 1px #07abae;
+  background-color: #07abae;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: block;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+}
+.button:hover {
+  border: #07ae83;
+  background-color: #07ae83;
+}
